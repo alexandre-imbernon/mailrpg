@@ -1,0 +1,14 @@
+{
+  "mail_1": {
+    "parser": {
+      "croire": "mail_2a",
+      "douter": "mail_2b"
+    }
+  },
+  "mail_2a": {
+    "parser": {
+      "explorer": "mail_3a1",
+      "rester": "mail_3a2"
+    }
+  }
+}
