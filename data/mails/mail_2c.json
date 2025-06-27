@@ -1,0 +1,10 @@
+{
+  "id": "mail_2c",
+  "subject": "La salle aux alarmes",
+  "body": "J’ai quitté la pièce. Le couloir était noir… vraiment noir. Il y avait du givre sur les parois. Je suis entrée dans une salle technique. Il y a des voyants rouges qui clignotent. Une alarme basse fréquence tourne en boucle. Ça résonne dans mon crâne.\n\nIl y a une interface avec des codes d’accès, mais elle est gelée. Je crois que c’est une sorte de sas de maintenance. Il y a aussi un plan partiel de la station sur un écran.\n\nJe t’envoie une photo. Est-ce que tu arrives à lire quelque chose ? Ou peut-être que tu veux que je retourne en arrière ?",
+  "choices": {
+    "analyser": "mail_3a",
+    "reculer": "mail_3b"
+  },
+  "assets": ["panel_nox-6.jpg"]
+}

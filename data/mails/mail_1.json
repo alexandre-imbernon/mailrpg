@@ -1,10 +1,11 @@
 {
   "id": "mail_1",
   "subject": "Est-ce que tu me crois ?",
-  "body": "Je suis bloquée dans la station, j'ai besoin de toi. Dis-moi si je peux compter sur toi.",
-  "assets": ["camera_nox-6.jpg"],
+  "body": "Je sais que ça peut sembler fou, mais j’ai besoin que tu me croies. Réponds-moi vite.",
   "choices": {
     "croire": "mail_2a",
-    "douter": "mail_2b"
-  }
+    "douter": "mail_2b",
+    "explorer": "mail_2c"
+  },
+  "assets": ["camera_nox-6.jpg"]
 }

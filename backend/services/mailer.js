@@ -48,7 +48,7 @@ async function sendNarrativeMail(to, mailContent) {
     console.error('❌ Erreur envoi mail :', err);
   }
 }
-  module.exports= { sendNarrativeMail };
+  module.exports = { sendNarrativeMail };
 
 
 

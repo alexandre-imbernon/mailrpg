@@ -6,4 +6,4 @@ const testMail = {
   assets: ["camera_nox-6.jpg"] // Assure-toi que cette image est bien dans /assets/day_1/
 };
 
-sendNarrativeMail("alexandre.imbernon@laplateforme.io", testMail);
+sendNarrativeMail("alexndre.imbernon@laplateforme.io", testMail);

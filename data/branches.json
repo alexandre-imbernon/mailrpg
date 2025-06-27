@@ -2,7 +2,9 @@
   "mail_1": {
     "parser": {
       "croire": "mail_2a",
-      "douter": "mail_2b"
+      "douter": "mail_2b",
+      "explorer": "mail_2c"
+
     }
   },
   "mail_2a": {

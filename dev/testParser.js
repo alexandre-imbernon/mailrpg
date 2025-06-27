@@ -3,7 +3,7 @@ const { detectKeyword } = require ('../backend/logic/parser');
 const testInputs = [
     "Je te crois à 100%",
     "Hmm j'ai des doutes",
-    "Tu devrais explorer",
+    "Va voir",
     "Attends encore un peu",
     "Je ne te fais pas confiance",
 ];
