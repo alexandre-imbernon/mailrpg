@@ -1,0 +1,10 @@
+{
+  "id": "mail_1",
+  "subject": "Est-ce que tu me crois ?",
+  "body": "Je suis bloquée dans la station, j'ai besoin de toi. Dis-moi si je peux compter sur toi.",
+  "assets": ["camera_nox-6.jpg"],
+  "choices": {
+    "croire": "mail_2a",
+    "douter": "mail_2b"
+  }
+}
