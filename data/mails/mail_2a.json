@@ -1,0 +1,10 @@
+{
+  "id": "mail_2a",
+  "subject": "Merci. Tu n’imagines pas ce que ça représente.",
+  "body": "J’avais peur que ce soit un piège… que personne ne réponde.\n\nSi tu me lis, c’est que mon message est passé.\n\nJe suis dans la salle de confinement D-14. Quelque chose m’a poursuivie dans les conduits. J’ai verrouillé la pièce, mais je suis coincée. L’IA a désactivé l’alimentation principale. Plus de lumière. Juste les secours d’urgence.\n\nJe t’envoie une image de la caméra thermique. Elle ne voit pas tout, mais… regarde en haut à gauche.\n\nJe peux tenter de forcer une issue par le sas de service, mais ça me mènera dans le secteur mécanique. Dangereux… et je ne vois rien là-bas.",
+  "assets": ["camera_nox-6.jpg"],
+  "choices": {
+    "explorer": "mail_3a1",
+    "rester": "mail_3a2"
+  }
+}

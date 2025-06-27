@@ -1,0 +1,10 @@
+{
+  "id": "mail_2b",
+  "subject": "Je comprends. Tu ne me crois pas.",
+  "body": "Ce serait plus facile pour moi aussi si c’était une mauvaise blague.\n\nMais je t’envoie ce message depuis une station désaffectée orbitant autour de Thalassa, un satellite lunaire à 3 jours de Terre.\n\nIl y avait douze membres d’équipage. Je pense être la dernière. Les autres… ont disparu. Certains parlaient à voix haute, même seuls. Puis plus rien.\n\nJe t’envoie une photo prise depuis le terminal de sécurité.\n\nTu peux encore m’aider. Même si tu ne comprends pas tout.\n\nDois-je tenter de sortir de cette pièce ? Ou attendre encore ?",
+  "assets": ["security_feed_t3.jpg"],
+  "choices": {
+    "sortir": "mail_3b1",
+    "attendre": "mail_3b2"
+  }
+}

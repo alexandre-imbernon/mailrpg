@@ -1,5 +1,5 @@
-// 1. Imports nécessaires
 const express = require('express');
+
 const dotenv = require('dotenv');
 const {
   detectKeyword
@@ -22,6 +22,10 @@ dotenv.config();
 // 3. Création de l'app
 const app = express();
 app.use(express.json());
+
+// Ajout du middleware pour servir les fichiers statiques
+const path = require('path');
+app.use('/assets', express.static(path.join(__dirname, '../assets')));
 
 // 4. Route basique (sanity check)
 app.get('/', (req, res) => {
